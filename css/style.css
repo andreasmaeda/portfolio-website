@@ -44,6 +44,11 @@ body {
 section {
      margin: 5rem;
      font-size: 1.2rem;
-     
+
+}
+
+a { 
+     color: #444;
+     text-decoration: none;
 }
 
