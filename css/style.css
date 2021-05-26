@@ -37,3 +37,13 @@ body {
      height: 100%;
 }
 
+.quote {
+     float: right;
+}
+
+section {
+     margin: 5rem;
+     font-size: 1.2rem;
+     
+}
+
