@@ -1,0 +1,21 @@
+body, html {
+     height: 100%;
+}
+
+body {
+     font-weight: 200;
+     font-size: 1.5rem;
+     color: #444;
+}
+
+.intro-left {
+     background: url(../img/1.jpg);
+
+}
+
+.avatar {
+     width: 10rem;
+     height: 10rem;
+     border-radius: 50%;
+     margin: 1rem;
+}
